@@ -1,2 +1,4 @@
 just testing my username/email
 Now testing my SSH stuff
+
+Manual test, not using git commands here.
